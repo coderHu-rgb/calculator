@@ -12,5 +12,5 @@ How to Use
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/your-username/calculator.git
+git clone https://github.com/coderHu-rgb/calculator.git
 Open index.html in your preferred browser.
